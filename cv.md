@@ -1,26 +1,26 @@
 ![](cv_photo.jpg)
-******
+***
 # **Evgeniy Velichko**
-******
+***
 
 ## **Contacts**
-******
+***
 * **Phone**: +375(29)741-01-29
 * **Email**: dyadyapavliklyas@gmail.com
 * **GitGub**: [lyasikzzz](https://github.com/Lyasikzzz)
 
 ## **About Me**
-******
+***
 I am a novice software developer and tester who wants to learn and develop in the IT field.
 
 ## Skills
-******
+***
 * HTML
 * CSS
 * JavaScript
 
 ## Code Example
-******
+***
 ```
 function rememberOfFilms() {
     for (let i = 0; i < 2; i++){
@@ -37,12 +37,12 @@ function rememberOfFilms() {
 ```
 
 ## Education
-******
+***
 **Belarusian National Technical University** - graduated in 2020.
 **[JS + React course](https://www.udemy.com/course/javascript_full/)** - in the learning process now.
 **[Underground Language Club](https://ulc.by/)** - graduated in 2021.
 
 ## English
-******
+***
 
 **A2** (Pre-Intermediate)
