@@ -38,9 +38,9 @@ function rememberOfFilms() {
 
 ## Education
 
-**Belarusian National Technical University** - graduated in 2020.
-**[JS + React course](https://www.udemy.com/course/javascript_full/)** - in the learning process now.
-**[Underground Language Club](https://ulc.by/)** - graduated in 2021.
+**Belarusian National Technical University** - graduated in 2020.  
+**[JS + React course](https://www.udemy.com/course/javascript_full/)** - in the learning process now.  
+**[Underground Language Club](https://ulc.by/)** - graduated in 2021.  
 
 ## English
 
