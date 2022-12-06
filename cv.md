@@ -11,7 +11,8 @@
 
 ## **About Me**
 
-I am a novice software developer and tester who wants to learn and develop in the IT field.
+I am an aspiring software developer and tester who wants to learn and develop in the field of information technology.  
+Graduated from the Belarusian National Technical University in 2020 with a degree in Teacher-Programmer.
 
 ## Skills
 
