@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/favicon.ico">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <nav>
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#code" class="nav-link">Code Example</a></li>
+                    <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+                  </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="container main-container">
+            <section class="section section-profile" id="profile">
+                <img src="cv_photo.jpg" alt="photo" width="300" height="300" class="photo-design">
+                <div class="main-column">
+                    <h1 class="big-section-title small-border">
+                        Evgeniy Velichko
+                    </h1>
+                    <h3 class="section-title">
+                        Junior Front-end developer
+                    </h3>
+                </div>
+            </section>
+            <section class="section" id="contacts">
+                <h2 class="section-title">
+                    Contacts
+                </h2>
+                <div style="display: flex; justify-content:left;">
+                    <div style="width: 5%;">
+                        <ul class="main-list">
+                            <li><img src="https://icons-for-free.com/download-icon-map+pin+icon-1320184637674418948_512.png" alt="logo" class="ico-size"></li>
+                            <li><img src="https://icons-for-free.com/download-icon-phone-131964784943439862_512.png" alt="logo" class="ico-size"></li>
+                            <li><img src="https://icons-for-free.com/iconfiles/png/512/mail+outline+24px-131985190531520071.png" alt="logo" class="ico-size"></li>
+                            <li><img src="https://icons-for-free.com/iconfiles/png/512/github-131979013004549354.png" alt="logo" class="ico-size"></li>
+                        </ul>
+                    </div>
+                    <ul class="main-list">
+                        <li>Location: <a href="https://www.google.com/maps/@53.906803,27.5575274,12.3z" class="list-link">Belarus, Minsk</a></li>
+                        <li>Phone: +375(29)741-01-29</li>
+                        <li>Email: dyadyapavliklyas@gmail.com</li>
+                        <li>GitHub: <a href="https://github.com/Lyasikzzz" class="list-link">Lyasikzzz</a></li>
+                    </ul>
+                </div>
+            </section>
+            <section class="section" id="summary">
+                <h2 class="section-title">
+                    Summary
+                </h2>
+                <p>
+                    I am an aspiring software developer and tester who wants to learn and develop in the field of information technology.
+                    Graduated from the Belarusian National Technical University in 2020 with a degree in Teacher-Programmer.
+                </p>
+            </section>
+            <section class="section" id="skills">
+                <h2 class="section-title">
+                    Skills
+                </h2>
+                <ul class="other-list">
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>Blender 3D</li>
+                </ul>
+            </section>
+            <section class="section" id="code">
+                <h2 class="section-title">
+                    Code Example
+                </h2>
+                <pre class="code-border"><code>for (let i = 0; i &lt; list.length; i++) {
+  list[i].textContent = `${i + 1}. ` + movieDB.movies[i];
+}</code></pre>
+            </section>
+            <section class="section" id="courses">
+                <h2 class="section-title">
+                    Courses
+                </h2>
+                <ul class="other-list">
+                    <li>Udemy: <a href="https://www.udemy.com/course/javascript_full/" class="list-link">JavaScript + React</a></li>
+                    <li>Udemy: <a href="https://www.udemy.com/course/blender-3d-sculpting-course/" class="list-link">Blender 3D Sculpting</a></li>
+                    <li>Underground school: <a href="https://ulc.by/" class="list-link">English course</a></li>
+                </ul>
+            </section>
+            <section class="section" id="english">
+                <h2 class="section-title">
+                    English
+                </h2>
+                <h3>
+                    A2 - Pre-Intermediate
+                </h3>
+                <p>
+                    I can read and write in English. I speak a little, and also understand speech by ear a little
+                </p>
+            </section>
+            <section class="section" id="education">
+                <h2 class="section-title">
+                    Education
+                </h2>
+                <h3>
+                    <a href="https://bntu.by/" class="list-link">Belarusian National Technical University</a>
+                </h3>
+                <p>
+                    Graduated from the Faculty of <a href="https://bntu.by/faculties/ipf" class="list-link">Engineering and Pedagogy</a>. Specialty: Vocational training (computer science).
+                </p>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <ul class="footer-list">
+                <li class="color-black">© 2022 <a href="https://github.com/Lyasikzzz" class="list-link color-black">Lyasikzzz</a></li>
+                <li><a href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" alt="rsschool" width="150"></a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>
